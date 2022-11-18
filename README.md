@@ -1,6 +1,6 @@
-# Criando uma documentação com SWAGGER para projetos NodeJS 📚
+# Criando uma documentação com Swagger para projetos NodeJS 📚
 
-Tutorial para gerar automaticamente API docs ⚡
+Tutorial API docs ⚡
 
 Referencias: 
 * `npm swagger-jsdocs`
